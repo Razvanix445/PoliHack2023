@@ -1,1 +1,1 @@
-# PoliHack2023
+# PoliHack-2023
