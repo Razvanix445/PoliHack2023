@@ -7,8 +7,8 @@ The therapist can, through this app, create three types of games for kids, and n
 This is a way in which the therapist can make the exercise with these people more efficient.
 
 Application created by:
-Calauz Razvan
-Cozma Alex
-Cretu Gabriel
-Macovei Bogdan
+Calauz Razvan, 
+Cozma Alexandru, 
+Cretu Gabriel, 
+Macovei Bogdan, 
 Rusu Teodor
