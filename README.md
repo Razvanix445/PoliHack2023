@@ -13,4 +13,4 @@ Calauz Razvan,
 Cozma Alexandru, 
 Cretu Gabriel, 
 Macovei Bogdan, 
-Rusu Teodor
+Rusu Teodor.
