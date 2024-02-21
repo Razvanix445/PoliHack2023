@@ -1,6 +1,6 @@
 # PoliHack-2023
 
-Theme: Inclusive Innovation: Bridging Gaps for a Diverse World
+<ins>Theme: Inclusive Innovation: Bridging Gaps for a Diverse World</ins>
 
 Our application helps people with memory problems or autism to exercise at home the exercises that are usually done with a specialized therapist.
 The therapist can, through this app, create three types of games for kids, and not only, and assign them to their account.
